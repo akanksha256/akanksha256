@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **akanksha256/akanksha256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋, I am Akanksha! 😁
+I am working as a software Developer with 1.8 year's of IT experience in India.My technology stack involves Java, Spring, Maven, SQL server, HTML/CSS Azure.
+
+🔭 I’m currently researching about Azure and AWS Cloud
+💬 Brainstorm with me over tech, algorithms, career, and music
+😄 Pronouns: Programmer/She/Her/Hers
+
+
+
