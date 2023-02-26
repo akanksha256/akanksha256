@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋, I am Akanksha! 😁
-I am working as a software Developer with 1.8 year's of IT experience in India.My technology stack involves Java, Spring, Maven, SQL server, HTML/CSS Azure.
+I am working as a software Developer with around 2 year's of IT experience in India. My technology stack involves Java, Spring, Maven, SQL server, HTML/CSS Azure, .Net.
 
-🔭 I’m currently researching about Azure and AWS Cloud
+🔭 I’m currently researching about Azure and AWS Cloud.
 💬 Brainstorm with me over tech, algorithms, career, and music
 😄 Pronouns: Programmer/She/Her/Hers
 
